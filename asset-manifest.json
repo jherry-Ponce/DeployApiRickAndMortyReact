@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jherry-Ponce/DeployApiRickAndMortyReact/static/css/main.ffc97e0d.css",
+    "main.js": "/jherry-Ponce/DeployApiRickAndMortyReact/static/js/main.555e191d.js",
+    "index.html": "/jherry-Ponce/DeployApiRickAndMortyReact/index.html",
+    "main.ffc97e0d.css.map": "/jherry-Ponce/DeployApiRickAndMortyReact/static/css/main.ffc97e0d.css.map",
+    "main.555e191d.js.map": "/jherry-Ponce/DeployApiRickAndMortyReact/static/js/main.555e191d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc97e0d.css",
+    "static/js/main.555e191d.js"
+  ]
+}
